@@ -9,7 +9,6 @@ function sendMail($senderName, $sender, $to, $subject, $text) {
     }
     $mail = new PHPMailer();
     $mail->IsSMTP();                                        // SMTP-n keresztüli küldés
-    //$mail->Host = "server7.megacp.com:465";  //Vmiért a hitelesítés nem megy titkosított kapcsolaton, és belassul az oldal tőle. 
     $mail->Host = "mail.feree.hu:26";                  // SMTP szerverek
 
     $mail->SMTPAuth = true;                                 // SMTP autentikáció bekapcs
@@ -30,6 +29,3 @@ function sendMail($senderName, $sender, $to, $subject, $text) {
 
     $mail->Send();
 }
-
-//$asd = rand(0, 9999);
-//sendMail("Sender Email $asd", "sender@feree.hu", "netkorszak@gmail.com", "tárgy", "üzenet");
