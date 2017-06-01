@@ -1,0 +1,1 @@
+<h2 id="error">Üres hozzászólást küldtél el! Valamit azért írj...</h2>

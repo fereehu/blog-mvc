@@ -1,0 +1,14 @@
+ASD-->asd
+SITENAME-->[Onlineszemetes]
+SITEURL-->http://localhost/osz_blog/
+URL-->http://localhost/osz_blog/
+LINKHEADER1-->Google 
+LINKHEADERURL1-->http://google.com
+LINKHEADER2-->Facebook
+LINKHEADERURL2-->http://facebook.com
+LINKHEADER3-->Ez egy harmadik link
+LINKHEADERURL3-->http://harmadiklink.hu
+SITEDESC-->Ez egy online lomtár. Szemetes. Ahogy tetszik. 
+SITEDESC2-->Leírás sokadik
+COMMENTNUMSIDEBAR-->5
+TEMPLATE-->andreas02
