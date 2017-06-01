@@ -1,0 +1,1 @@
+A jelszó cseréjéhez az információkat elküldtük neked emailben. Kérjük kövesd az információkat.  

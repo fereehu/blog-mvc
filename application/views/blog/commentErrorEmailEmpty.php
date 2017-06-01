@@ -1,0 +1,1 @@
+<h2 id="error">Hiba! Üres email cím!</h2>

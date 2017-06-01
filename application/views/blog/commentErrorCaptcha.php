@@ -1,0 +1,1 @@
+<h2 id="error">Hibás nap megadás, kérlek ellenőrizd ezt.</h2>

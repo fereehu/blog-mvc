@@ -1,0 +1,1 @@
+<h2 id="error">Hiba! Üres felhasználónév!</h2>

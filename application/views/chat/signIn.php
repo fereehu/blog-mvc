@@ -1,0 +1,1 @@
+Kérlek jelentkezz be az oldalon, és utána használhatod a chatet. 
